@@ -1,5 +1,6 @@
 //LOGICAL IMPLEMENTATION
 // SWAPINING THE TWO VARIABLE WITH THE HELP OF THIRD variable
+// Code optimized
 #include<stdio.h>
 void main(){
 	int a,b,c;
