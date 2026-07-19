@@ -1,0 +1,16 @@
+//write a program to add the digits of a given number
+#include<stdio.h>
+int add(int n){
+	int rem;
+	if(n==0){
+		return 0;
+	}else{
+		return(n%10)+add(n/10);
+	}
+}
+void main(){
+	int n,rem,sum;
+	printf("Enter a number:");
+	scanf("%d",&n);
+	printf("Sum of digits is:%d\n", add(n));
+}
