@@ -1,4 +1,5 @@
 // to calculate sum of first and last digit of a 4 number
+// Updated logic
 #include<stdio.h>
 void main(){
 	int n, fd, ld, sum;
