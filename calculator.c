@@ -1,4 +1,5 @@
 // to implement a calculator using if if else if
+//creating a arithmetic calculator using c
 #include<stdio.h>
 void main(){
     int a;
