@@ -1,4 +1,4 @@
-// to check whether the angles of triangles are valid
+// to check whether the angles of triangles are valid, if the angles forming 180
 #include<stdio.h>
 void main(){
     float angle1, angle2, angle3, valid;
