@@ -1,4 +1,4 @@
-// to find out second largest number from the three numbers
+// to find out second largest number from the three numbers, using conditional loops
 #include<stdio.h>
 void main(){
     int a,b,c;
