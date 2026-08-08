@@ -1,4 +1,5 @@
 //to check if the given numberis armstrong or not
+
 #include<stdio.h>
 void main(){
     int n, rem, cube=0;
