@@ -1,4 +1,3 @@
-//making a sim
 //calculate emplyoee bonus based on the salary slabs
 // //Salary ≤ 10,000 → Bonus = 10% of salary
 // 10,001 – 20,000 → Bonus = 15% of salary
