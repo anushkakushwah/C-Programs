@@ -1,5 +1,5 @@
 # C Basic Programs
-A collection of basic C programming programs covering fundamental concepts and problem-solving techniques. This repository is part of my programming journey to strengthen my C fundamentals and  .
+A collection of basic C programming programs covering fundamental concepts and problem-solving techniques. This repository is part of my programming journey to strengthen my C fundamentals and improve.
 
 ## 📚 Topics I will Cover
 
